@@ -3,7 +3,6 @@
  * Recursos: UDP e Multicasting
  * Converte em um segmento de áudio e converte para um pacote que é enviado pela rede
  */
-package multicastaudiosender;
 
 import java.net.DatagramPacket;
 import java.net.InetAddress;
